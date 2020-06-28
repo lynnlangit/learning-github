@@ -3,6 +3,8 @@
 1. Setup
 2. Types of Repos
 3. Issues -> Pull Requests
+4. Resolving merge conflicts
+5. Managing branches
 
 ## Future
 
