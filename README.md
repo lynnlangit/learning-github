@@ -6,7 +6,7 @@
 
 ## Example Graphs
 
-Using `mermaid` notation. Live editor to create diagram syntax at this location --> https://mermaid-js.github.io/.  
+Using [`mermaid`](http://mermaid-js.github.io/) notation. Live editor to create diagram syntax at this location --> https://mermaid-js.github.io/mermaid-live-editor.  
 First example shown below is a flow chart.
 
 ```mermaid
