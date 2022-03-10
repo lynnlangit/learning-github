@@ -12,4 +12,4 @@
 2. Packages - npm, python
 3. Docker images
 4. Community / contribution info
-5. Actions - CI/CD to GCP/AWS, GitHub Packages
+5. Actions - CI/CD to GCP/AWS, GitHub Packages, Security (container | code) scanning
